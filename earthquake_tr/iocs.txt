@@ -29,3 +29,4 @@ helptk.bar
 afadtr.bagislama.net
 kizllay.com
 bagisyap.cf
+yardim.one
